@@ -26,11 +26,11 @@ public class HW1 : MonoBehaviour
     {
         if (age <= 80)
         {
-            Debug.Log("msg1");
+            Debug.Log("you have a good days to live");
         }
         else
         {
-            Debug.Log("msg2");
+            Debug.Log("you must be old");
         }
     }
 
